@@ -19,6 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - Convert currency amounts
 - Clean and simple UI
+  ![App Screenshot](./assets/aaa.png)
 
 ## Installation
 
